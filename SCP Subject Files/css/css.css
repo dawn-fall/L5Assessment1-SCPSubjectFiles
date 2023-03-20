@@ -42,4 +42,10 @@ a{
 .card-text {
     flex-grow: 1;
 }
-  
+
+.ootwo{
+    max-width: 85vw;
+    float:right;
+    height:auto;
+    margin: 15px;
+}
