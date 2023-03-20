@@ -45,7 +45,14 @@ a{
 
 .ootwo{
     max-width: 85vw;
-    float:right;
     height:auto;
-    margin: 15px;
+}
+
+.oothree{
+    max-width: 85vw;
+    height:auto;
+}
+
+p{
+    font-size: medium;
 }
