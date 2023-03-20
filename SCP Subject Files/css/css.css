@@ -56,3 +56,15 @@ a{
 p{
     font-size: medium;
 }
+
+.container-bg {
+    background: rgb(219, 217, 217);
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.container-bg-red {
+    border: 2px solid #a21c1c;
+    border-radius: 25px;
+    padding: 10px;
+}
